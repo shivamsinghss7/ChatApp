@@ -1,2 +1,8 @@
-# ChatApp
-ChatApp/ChatRoom this is chat room app   when someone enter in the room he needs room code 
+@@ -14,6 +14,7 @@ Overall, this project provides an excellent example of how to create a real-time
+## ✨Tech Stack
+
+**Scripting Language:** HTML, CSS, JAVASCRIPT
+
+**backend:** agora.io
+
+## 🔴 Video tutorial!
